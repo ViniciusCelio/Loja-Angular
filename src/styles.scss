@@ -22,7 +22,7 @@ app-root {
     flex-direction: row;
 }
 
-.colunm {
+.column {
     display: flex;
     flex-direction: column;
 }
@@ -45,6 +45,10 @@ app-root {
 
 .wrap {
     flex-wrap: wrap;
+}
+
+.gap-05 {
+    gap: 0.5rem;
 }
 
 .gap-1 {
